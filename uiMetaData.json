@@ -1,0 +1,43 @@
+{
+  "name": "Test USGS Community Supported Connector",
+  "connectorType": "",
+  "userId": 999291859,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": null,
+  "reportLength": 5,
+  "days": 7,
+  "reports": [
+    "Past Hour",
+    "Past Day",
+    "Past 7 Days",
+    "Past 30 Days",
+    "Pull data from the last X day(s)"
+  ],
+  "advancedReports": null,
+  "guid": "8560fb0e-54f3-4565-9899-4efd386d8d7a",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "communitySupported"
+  },
+  "parameters": null,
+  "commands": null,
+  "showAdvanced": false,
+  "submittedVersion": 0,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": "15f21deb-81ec-425a-8e9b-4eab69bd405e",
+  "testingProfiles": null,
+  "visible": true
+}
